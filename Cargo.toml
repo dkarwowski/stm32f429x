@@ -6,7 +6,7 @@ license = "MIT"
 repository = "https://github.com/dkarwowski/stm32f429x"
 documentation = "https://docs.rs/stm32f429x"
 name = "stm32f429x"
-version = "0.2.0"
+version = "0.3.0"
 
 [dependencies]
 cortex-m = "0.2.4"
