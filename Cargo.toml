@@ -1,7 +1,9 @@
 [package]
 authors = ["David Karwowski <karwowski.david@gmail.com>"]
+description = "Peripheral access API for STM32F429X Microcontrollers."
+keywords = ["no-std", "arm", "cortex-m", "stm32"]
 name = "stm32f429x"
-version = "0.1.0"
+version = "0.2.0"
 
 [dependencies]
 cortex-m = "0.2.4"
