@@ -2,6 +2,8 @@
 authors = ["David Karwowski <karwowski.david@gmail.com>"]
 description = "Peripheral access API for STM32F429X Microcontrollers."
 keywords = ["no-std", "arm", "cortex-m", "stm32"]
+license = "MIT"
+repository = "https://github.com/dkarwowski/stm32f429x"
 name = "stm32f429x"
 version = "0.2.0"
 
