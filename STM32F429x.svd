@@ -8720,6 +8720,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>15</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR14</name>
@@ -8727,6 +8729,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>14</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR13</name>
@@ -8734,6 +8738,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>13</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR12</name>
@@ -8741,6 +8747,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>12</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR11</name>
@@ -8748,6 +8756,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>11</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR10</name>
@@ -8755,6 +8765,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>10</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR9</name>
@@ -8762,6 +8774,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>9</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR8</name>
@@ -8769,6 +8783,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>8</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR7</name>
@@ -8776,6 +8792,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>7</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR6</name>
@@ -8783,6 +8801,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>6</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR5</name>
@@ -8790,6 +8810,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>5</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR4</name>
@@ -8797,6 +8819,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>4</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR3</name>
@@ -8804,6 +8828,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>3</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR2</name>
@@ -8811,6 +8837,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>2</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR1</name>
@@ -8818,6 +8846,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>1</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR0</name>
@@ -8825,6 +8855,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>0</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
           </fields>
         </register>
@@ -8843,6 +8875,17 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>15</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <name>ENABLED</name>
+                <enumeratedValue>
+                  <name>ENABLED</name>
+                  <value>1</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>DISABLED</name>
+                  <value>0</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR14</name>
@@ -8850,6 +8893,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>14</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR13</name>
@@ -8857,6 +8902,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>13</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR12</name>
@@ -8864,6 +8911,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>12</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR11</name>
@@ -8871,6 +8920,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>11</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR10</name>
@@ -8878,6 +8929,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>10</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR9</name>
@@ -8885,6 +8938,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>9</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR8</name>
@@ -8892,6 +8947,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>8</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR7</name>
@@ -8899,6 +8956,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>7</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR6</name>
@@ -8906,6 +8965,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>6</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR5</name>
@@ -8913,6 +8974,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>5</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR4</name>
@@ -8920,6 +8983,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>4</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR3</name>
@@ -8927,6 +8992,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>3</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR2</name>
@@ -8934,6 +9001,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>2</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR1</name>
@@ -8941,6 +9010,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>1</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR0</name>
@@ -8948,6 +9019,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>0</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
           </fields>
         </register>
@@ -10283,6 +10356,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>15</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR14</name>
@@ -10290,6 +10365,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>14</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR13</name>
@@ -10297,6 +10374,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>13</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR12</name>
@@ -10304,6 +10383,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>12</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR11</name>
@@ -10311,6 +10392,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>11</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR10</name>
@@ -10318,6 +10401,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>10</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR9</name>
@@ -10325,6 +10410,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>9</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR8</name>
@@ -10332,6 +10419,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>8</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR7</name>
@@ -10339,6 +10428,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>7</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR6</name>
@@ -10346,6 +10437,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>6</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR5</name>
@@ -10353,6 +10446,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>5</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR4</name>
@@ -10360,6 +10455,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>4</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR3</name>
@@ -10367,6 +10464,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>3</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR2</name>
@@ -10374,6 +10473,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>2</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR1</name>
@@ -10381,6 +10482,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>1</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR0</name>
@@ -10388,6 +10491,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>0</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
           </fields>
         </register>
@@ -10406,6 +10511,19 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>15</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <name>ENABLED</name>
+                <enumeratedValue>
+                  <name>ENABLED</name>
+                  <description>Pin is enabled.</description>
+                  <value>1</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>DISABLED</name>
+                  <description>Pin is disabled.</description>
+                  <value>0</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR14</name>
@@ -10413,6 +10531,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>14</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR13</name>
@@ -10420,6 +10540,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>13</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR12</name>
@@ -10427,6 +10549,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>12</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR11</name>
@@ -10434,6 +10558,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>11</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR10</name>
@@ -10441,6 +10567,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>10</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR9</name>
@@ -10448,6 +10576,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>9</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR8</name>
@@ -10455,6 +10585,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>8</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR7</name>
@@ -10462,6 +10594,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>7</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR6</name>
@@ -10469,6 +10603,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>6</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR5</name>
@@ -10476,6 +10612,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>5</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR4</name>
@@ -10483,6 +10621,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>4</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR3</name>
@@ -10490,6 +10630,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>3</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR2</name>
@@ -10497,6 +10639,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>2</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR1</name>
@@ -10504,6 +10648,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>1</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR0</name>
@@ -10511,6 +10657,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>0</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
           </fields>
         </register>
@@ -11814,6 +11962,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>15</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR14</name>
@@ -11821,6 +11971,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>14</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR13</name>
@@ -11828,6 +11980,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>13</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR12</name>
@@ -11835,6 +11989,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>12</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR11</name>
@@ -11842,6 +11998,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>11</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR10</name>
@@ -11849,6 +12007,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>10</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR9</name>
@@ -11856,6 +12016,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>9</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR8</name>
@@ -11863,6 +12025,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>8</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR7</name>
@@ -11870,6 +12034,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>7</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR6</name>
@@ -11877,6 +12043,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>6</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR5</name>
@@ -11884,6 +12052,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>5</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR4</name>
@@ -11891,6 +12061,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>4</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR3</name>
@@ -11898,6 +12070,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>3</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR2</name>
@@ -11905,6 +12079,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>2</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR1</name>
@@ -11912,6 +12088,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>1</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>IDR0</name>
@@ -11919,6 +12097,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>0</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
           </fields>
         </register>
@@ -11937,6 +12117,17 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>15</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <name>ENABLED</name>
+                <enumeratedValue>
+                  <name>ENABLED</name>
+                  <value>1</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>DISABLED</name>
+                  <value>0</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR14</name>
@@ -11944,6 +12135,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>14</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR13</name>
@@ -11951,6 +12144,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>13</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR12</name>
@@ -11958,6 +12153,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>12</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR11</name>
@@ -11965,6 +12162,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>11</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR10</name>
@@ -11972,6 +12171,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>10</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR9</name>
@@ -11979,6 +12180,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>9</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR8</name>
@@ -11986,6 +12189,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>8</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR7</name>
@@ -11993,6 +12198,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>7</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR6</name>
@@ -12000,6 +12207,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>6</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR5</name>
@@ -12007,6 +12216,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>5</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR4</name>
@@ -12014,6 +12225,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>4</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR3</name>
@@ -12021,6 +12234,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>3</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR2</name>
@@ -12028,6 +12243,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>2</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR1</name>
@@ -12035,6 +12252,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>1</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
             <field>
               <name>ODR0</name>
@@ -12042,6 +12261,8 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               0..15)</description>
               <bitOffset>0</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="ODR.ODR15.ENABLED">
+              </enumeratedValues>
             </field>
           </fields>
         </register>
@@ -12653,18 +12874,78 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               <description>Memory mapping selection</description>
               <bitOffset>0</bitOffset>
               <bitWidth>3</bitWidth>
+              <enumeratedValues>
+                <name>MEMMAPPING</name>
+                <enumeratedValue>
+                  <name>MAIN</name>
+                  <description>Main flash memory mapped at 0x0000 0000</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>SYSTEM</name>
+                  <description>System flash memory mapped at 0x0000 0000</description>
+                  <value>1</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>FMC</name>
+                  <description>FMC Bank 1 (NOR/PSRAM 1 and 2) mapped at 0x0000 0000</description>
+                  <value>2</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>SRAM</name>
+                  <description>Embedded SRAM (SRAM1) mapped at 0x0000 0000</description>
+                  <value>3</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>SDRAM</name>
+                  <description>FMC/SDRAM Bank 1 mapped at 0x0000 0000</description>
+                  <value>4</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>FB_MODE</name>
               <description>Flash bank mode selection</description>
               <bitOffset>8</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <name>FB MAPPING</name>
+                <enumeratedValue>
+                  <name>FB 1 2</name>
+                  <description>Flash bank 1 at 0x0800 0000, Flash bank 2 at 0x0810 0000.</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>FB 2 1</name>
+                  <description>Flash bank 2 at 0x0800 0000, Flash bank 1 at 0x0810 0000.</description>
+                  <value>1</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>SWP_FMC</name>
               <description>FMC memory mapping swap</description>
               <bitOffset>10</bitOffset>
               <bitWidth>2</bitWidth>
+              <enumeratedValues>
+                <name>SWAPPING</name>
+                <enumeratedValue>
+                  <name>NONE</name>
+                  <description>No FMC memory mapping swap</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>SWAPPED</name>
+                  <description>
+                    SDRAM banks and NAND Bank 2/PCCARD mapping are swapped.
+                    SDRAM Banks 2 and 2 are mapped at NAND Bank 2 (0x8000 0000)
+                    and PCCARD Bank (0x9000 0000) address, respectively. NAND
+                    Bank 2 and PCCARD Bank are mapped at 0xC000 0000 and 0xD000
+                    0000, respectively.
+                  </description>
+                  <value>1</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
           </fields>
         </register>
@@ -12684,6 +12965,19 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               selection</description>
               <bitOffset>23</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <name>SELECTOR</name>
+                <enumeratedValue>
+                  <name>MII</name>
+                  <description>MII interface is selected.</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>RMII</name>
+                  <description>RMII PHY interface is selected.</description>
+                  <value>1</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>ADC1DC2</name>
@@ -12879,6 +13173,18 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               <description>READY</description>
               <bitOffset>8</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <enumeratedValue>
+                  <name>NOT READY</name>
+                  <description>I/O compensation cell not ready</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>READY</name>
+                  <description>O compensation cell ready</description>
+                  <value>1</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>CMP_PD</name>
@@ -12886,6 +13192,18 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               power-down</description>
               <bitOffset>0</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <enumeratedValue>
+                  <name>POWER DOWN</name>
+                  <description>I/O compensation cell power-down mode.</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>ENABLED</name>
+                  <description>O compensation cell enabled</description>
+                  <value>1</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
           </fields>
         </register>
@@ -12922,6 +13240,19 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               enable</description>
               <bitOffset>15</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <name>MODE</name>
+                <enumeratedValue>
+                  <name>UNI 2 LINE</name>
+                  <description>2-line unidirectional data mode selected</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>BI 1 LINE</name>
+                  <description>1-line bidirectional data mode selected</description>
+                  <value>1</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>BIDIOE</name>
@@ -12929,6 +13260,22 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               mode</description>
               <bitOffset>14</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <description>
+                  Sets the direction of transfer in bidirectional mode when
+                  combined with BIDImode bit.
+                </description>
+                <enumeratedValue>
+                  <name>DISABLED</name>
+                  <description>Output disabled (receive-only mode)</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>ENABLED</name>
+                  <description>Output enabled (transmit-only mode)</description>
+                  <value>1</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>CRCEN</name>
