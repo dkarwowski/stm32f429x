@@ -13261,18 +13261,13 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               <bitOffset>14</bitOffset>
               <bitWidth>1</bitWidth>
               <enumeratedValues>
-                <description>
-                  Sets the direction of transfer in bidirectional mode when
-                  combined with BIDImode bit.
-                </description>
+                <name>ENABLER</name>
                 <enumeratedValue>
                   <name>DISABLED</name>
-                  <description>Output disabled (receive-only mode)</description>
                   <value>0</value>
                 </enumeratedValue>
                 <enumeratedValue>
                   <name>ENABLED</name>
-                  <description>Output enabled (transmit-only mode)</description>
                   <value>1</value>
                 </enumeratedValue>
               </enumeratedValues>
@@ -13283,48 +13278,96 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
               enable</description>
               <bitOffset>13</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="SPI1.CR1.BIDIOE">
+              </enumeratedValues>
             </field>
             <field>
               <name>CRCNEXT</name>
               <description>CRC transfer next</description>
               <bitOffset>12</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <enumeratedValue>
+                  <name>DATA</name>
+                  <description>Data phase, no CRC phase next</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>CRC</name>
+                  <description>Next transfer is CRC</description>
+                  <value>1</value>
+                </enumeratedValue>
+              </enumeratedValue>
             </field>
             <field>
               <name>DFF</name>
               <description>Data frame format</description>
               <bitOffset>11</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <enumeratedValue>
+                  <name>8 BIT</name>
+                  <description>8-bit data frame format is selected for transmission/receiving</description>
+                  <value>0</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>16 BIT</name>
+                  <description>16-bit data frame format is selected for transmission/receiving</description>
+                  <value>1</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>RXONLY</name>
               <description>Receive only</description>
               <bitOffset>10</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="SPI1.CR1.BIDIOE.ENABLER">
+              </enumeratedvalues>
             </field>
             <field>
               <name>SSM</name>
               <description>Software slave management</description>
               <bitOffset>9</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues>
+                <name>SLAVE MANAGEMENT</name>
+                <description>Whether this will be managing a slve for not</description>
+                <enumeratedValue>
+                  <name>MASTER</name>
+                  <description>Manages slaves</description>
+                  <value>1</value>
+                </enumeratedValue>
+                <enumeratedValue>
+                  <name>SLAVE</name>
+                  <description>Manages no slaves</description>
+                  <value>0</value>
+                </enumeratedValue>
+              </enumeratedValues>
             </field>
             <field>
               <name>SSI</name>
               <description>Internal slave select</description>
               <bitOffset>8</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="SPI1.CR1.BIDIOE.ENABLER">
+              </enumeratedValues>
             </field>
             <field>
               <name>LSBFIRST</name>
               <description>Frame format</description>
               <bitOffset>7</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="SPI1.CR1.BIDIOE.ENABLER">
+              </enumeratedValues>
             </field>
             <field>
               <name>SPE</name>
-              <description>SPI enable</description>
+              <description>SPI(Peripheral) enable</description>
               <bitOffset>6</bitOffset>
               <bitWidth>1</bitWidth>
+              <enumeratedValues derivedFrom="SPI1.CR1.BIDIOE.ENABLER">
+              </enumeratedValues>
             </field>
             <field>
               <name>BR</name>
