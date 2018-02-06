@@ -8,7 +8,12 @@ documentation = "https://docs.rs/stm32f429x"
 name = "stm32f429x"
 version = "0.3.0"
 
+[features]
+default = []
+rt = ["cortex-m-rt"]
+
 [dependencies]
 cortex-m = "0.4.3"
 vcell = "0.1.0"
 bare-metal = "0.1.1"
+cortex-m-rt = { version = "0.3.12", optional = true }
