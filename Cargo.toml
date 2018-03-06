@@ -1,13 +1,19 @@
 [package]
-authors = ["David Karwowski <karwowski.david@gmail.com>"]
-description = "Peripheral access API for STM32F429X Microcontrollers."
+authors = ["Astro <astro@spaceboyz.net>"]
+description = "Peripheral access API for STM32F429 Microcontrollers."
 keywords = ["no-std", "arm", "cortex-m", "stm32"]
 license = "MIT"
-repository = "https://github.com/dkarwowski/stm32f429x"
-documentation = "https://docs.rs/stm32f429x"
-name = "stm32f429x"
-version = "0.3.0"
+repository = "https://github.com/astro/stm32f429x"
+documentation = "https://docs.rs/stm32f429"
+name = "stm32f429"
+version = "0.0.0"
+
+[features]
+default = []
+rt = ["cortex-m-rt"]
 
 [dependencies]
-cortex-m = "0.2.4"
+cortex-m = "0.4.3"
 vcell = "0.1.0"
+bare-metal = "0.1.1"
+cortex-m-rt = { version = "0.3.12", optional = true }
